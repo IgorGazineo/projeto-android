@@ -58,9 +58,7 @@ header p {
     max-width: 500px;
     padding: 0px 10px;
     margin: auto;
-    margin-bottom: 20px;
-    border-bottom: 2px solid var(--color-white);
-    border-top: 2px solid var(--color-white);
+    padding-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.601);
 }
 
